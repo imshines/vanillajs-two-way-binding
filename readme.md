@@ -7,7 +7,7 @@ So can it be done?
 
 Incase you want that feature to be added it can be easily done with these few lines of code.
 
-See the example at https://imshines.github.io/vanillajs-two-way-binding
+See the example at https://imshines.github.io/vanillajs-two-way-binding/
 
 ### How to Use
 
