@@ -12,3 +12,5 @@ See the example at https://imshines.github.io/vanillajs-two-way-binding
 ### How to Use
 
 Just add the **two-way.js** to your project and you're good to go!
+
+Add `data-binding` attribute to your view eg. `<h2 data-binding="name">` and `data-model` to yout input field eg. `<input data-model="name">`
